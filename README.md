@@ -34,11 +34,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails-Backend <a name="about-project"></a>
+# 📖 Hello Rails-React <a name="about-project"></a>
 
 
 
-**Rails Backend** Rails Backend is bulit to practice working with Rails and React as front-end. This project was built to satisfy the Microverse Module 6 block 1 requirement and is MIT Licensed.
+**Rails Backend** Rails React is bulit to practice working with Rails and React as front-end. This project was built to satisfy the Microverse Module 6 block 1 requirement and is MIT Licensed.
 
 ## 🛠 Built With <a name="built-with"></a>
 
